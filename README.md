@@ -27,4 +27,4 @@ This is a simple and effective Python script that generates secure, random passw
 4. Run the script using:
 
 ```bash
-python password_generator.py
+python Basic_password_generator.py
