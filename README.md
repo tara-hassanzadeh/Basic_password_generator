@@ -19,12 +19,7 @@ This is a simple and effective Python script that generates secure, random passw
 ### 🔧 Prerequisites
 - Python 3.x installed on your system
 
-### ▶️ How to Run
+## ▶️ How to Run
 
-1. Download or clone the repository.
-2. Open your terminal (or command prompt).
-3. Navigate to the directory where the script is located.
-4. Run the script using:
-
-```bash
-python Basic_password_generator.py
+You can run the code directly in **Google Colab** (no setup needed):
+https://colab.research.google.com/github/tara-hassanzadeh/Basic_password_generator/blob/main/Basic_password_generator.ipynb
